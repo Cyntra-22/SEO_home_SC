@@ -38,7 +38,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .hero p {
@@ -93,9 +93,6 @@ p {
     text-align: center;
   }
 
-  .hero {
-    padding: 80px 20px;
-  }
   .about-section{
     margin: 0;
     text-align: center;
@@ -104,7 +101,7 @@ p {
   nav a{
     font-size: 12px;
   }
-  h4{
+  h3{
     font-family: 26px;
   }
   
