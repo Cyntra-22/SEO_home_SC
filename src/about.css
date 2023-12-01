@@ -126,4 +126,10 @@ p {
   padding: 120px 60px;
 }
 
+footer .email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
+
 
