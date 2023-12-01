@@ -96,11 +96,7 @@ p {
     margin: 0;
     text-align: center;
   }
-  footer .email-link {
-    text-decoration: none;
-    color: black;
-    font-size: 15px;
-  }
+
 }
 
 #img {
@@ -126,10 +122,6 @@ p {
   padding: 120px 60px;
 }
 
-footer .email-link {
-  text-decoration: none;
-  color: black;
-  font-size: 24px;
-}
+
 
 
