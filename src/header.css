@@ -108,8 +108,11 @@ p {
   footer .contact-box {
     padding: 30px;
   }
-
-
+  footer .email-link {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+  }
 }
 
 #img {
