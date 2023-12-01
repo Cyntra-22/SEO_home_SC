@@ -1,0 +1,19 @@
+.flexItem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.divide {
+  max-width: 49%;
+}
+
+@media (max-width: 900px) {
+  .flexItem {
+    display: block;
+    
+  }
+  .divide {
+  max-width: 100%;
+}
+
+}
