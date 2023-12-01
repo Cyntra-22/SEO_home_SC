@@ -96,6 +96,11 @@ p {
     margin: 0;
     text-align: center;
   }
+  footer .email-link {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+  }
 }
 
 #img {
