@@ -10,10 +10,14 @@
 @media (max-width: 900px) {
   .flexItem {
     display: block;
-    
   }
   .divide {
-  max-width: 100%;
-}
+    max-width: 100%;
+  }
 
+  footer .email-link {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+  }
 }
