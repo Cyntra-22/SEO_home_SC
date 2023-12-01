@@ -1,0 +1,13 @@
+footer .email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
+
+@media (max-width: 900px) {
+  footer .email-link {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+  }
+}
