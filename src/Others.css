@@ -46,23 +46,23 @@
 .flexItem {
   display: flex;
   justify-content: space-between;
-
 }
 
 .image {
   width: 100%;
 }
-
-.card{
-  margin: 10px 10px;
+.partition {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 @media (max-width: 900px) {
   .flexItem {
     display: block;
     width: 100%;
- 
   }
-
- 
+  .partiton {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
 }
